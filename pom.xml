@@ -21,6 +21,12 @@
             <artifactId>testng</artifactId>
             <version>7.0.0-beta3</version>
         </dependency>
+
+        <dependency> <!-- cucumber-junit-1.2.2 -->
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>1.2.2</version>
+        </dependency>
     </dependencies>
 
 </project>
